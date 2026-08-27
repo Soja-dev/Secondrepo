@@ -1,3 +1,3 @@
 SELECT column_names
-FROM table_names_1
+FROM table_name
 WHERE column_name IS NULL;
